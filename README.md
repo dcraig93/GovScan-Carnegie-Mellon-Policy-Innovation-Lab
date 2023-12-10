@@ -1,6 +1,6 @@
 # Welcome to GovScan
 ## Overview
-GovScan is a vectorbase powered large language model (LLM) application that simultaneously scans multiple large PDF reports and returns specific data from natural language prompts.
+GovScan is a vectorbase powered large language model (LLM) application that simultaneously scans multiple large PDF reports and returns specific data from natural language prompts. Unlike Chat GPT3.5, GovScan maintains output disaggregation so that each return can be linked directly to the orignial document text in which it was found. This provides users with the abilty to search and compare large PDF documents with the click of only one button, almost like using the age-old CTRL+F shortcut, but for an entire document library. GovScan has the potential to save ausers hours of time and millions of dollars in document research, all the while increasing the usability of large PDF reports.
 
 ## <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Demo Video</a>
 
