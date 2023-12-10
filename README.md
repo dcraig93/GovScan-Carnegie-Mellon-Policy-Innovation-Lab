@@ -3,7 +3,7 @@
 GovScan is a vectorbase powered large language model (LLM) that simultaneously scans multiple large PDF documents and leverages generative artificial intellegence (AI) to return specific data requests. Unlike Chat GPT, GovScan maintains source disaggregation so that each return can be linked directly to the orignial document text in which it was found. This provides users with the abilty to search and compare large PDF documents with the click of only one button, almost like using the age-old CTRL+F shortcut, but for an entire document library at once using natural language prompts like, "Hey GovScan, how does Pennsylvania determine Childcare Development Funding (CCDF) eligibility compared to Ohio?". GovScan has the potential to save users hours of time and millions of dollars in document research, all the while increasing the usability of large PDF documents.
 
 ## 2. Use Cases 
-* <Federal Goverment> - Use GovScan to navigate Federal Regulations, summarize public comments, and provide agencies the ability to compare data reporting across all 50 states.
+* Federal Goverment<ins> - Use GovScan to navigate Federal Regulations, summarize public comments, and provide agencies the ability to compare data reporting across all 50 states.
 * State Goverment - Use GovScan to improve federal program compliance and benchmark peer competitors. 
 * Local Government - Use GovScan to reduce governoring costs and garner greater benefits from state and federal programs.
 * Nonprofit - Use GovScan to reduce administrative costs and improve document organization. 
