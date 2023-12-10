@@ -1,8 +1,16 @@
 # Welcome to GovScan
 ## Overview
-GovScan is a generative AI Application for searching large PDF documents
+GovScan is a vectorbase powered large language model (LLM) that simultaneously scans multiple large PDF reports and returns specific data from natural language prompts.
 
-## Header 2
+## Original Problem Statement
+
+## Overall Project Objectives
+* Use generative artififical intellegence (AI) to scan multiple large PDFs simultaneously
+* Make searching and retrieving in
+* Utilize state plans to provide more transparency into the effectiveness of federally funded state run programs
+* Leverage technology to build better products for decision-makers
+* Create tools that are easily repurposed for other use cases
+
 #### Header 4
 ###### Header 6
 
