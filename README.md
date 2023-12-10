@@ -11,8 +11,7 @@ GovScan is a vectorbase powered large language model (LLM) that simultaneously s
 * Legal
 * 
 
-## Check it out for yourself
-## <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
+## Check it out for yourself! <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
 
 ## Project Background
 #### Header 4
