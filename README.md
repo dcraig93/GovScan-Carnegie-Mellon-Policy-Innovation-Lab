@@ -1,4 +1,12 @@
 # GovScan
- Generative AI Application for searching large PDF documents
+Generative AI Application for searching large PDF documents
 
-Here is what we made, here is how we approached it, et. etc.
+## Header 2
+#### Header 4
+###### Header 6
+
+* List item
+* List item
+* List item
+
+Regular text 
