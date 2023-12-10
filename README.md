@@ -5,12 +5,18 @@ GovScan is a vectorbase powered large language model (LLM) that simultaneously s
 ## 2. Use Cases 
 #### Federal Goverment
 * Use GovScan to navigate Federal Regulations, summarize public comments, and provide agencies the ability to compare data reporting across all 50 states.
-* State Goverment - Use GovScan to improve federal program compliance and benchmark peer competitors. 
-* Local Government - Use GovScan to reduce governoring costs and garner greater benefits from state and federal programs.
-* Nonprofit - Use GovScan to reduce administrative costs and improve document organization. 
-* Consulting - Use GovScan to retrieve data from in-house databases and improve market research for clients.  
-* Legal - Use GovScan to improve document review and build a stronger case in court.
-* Military - Use GovScan to draw strategic insight from open source adversary documents. 
+#### State Goverment
+* Use GovScan to improve federal program compliance and benchmark peer competitors. 
+#### Local Government
+* Use GovScan to reduce governoring costs and garner greater benefits from state and federal programs.
+#### Nonprofit
+* Use GovScan to reduce administrative costs and improve document organization. 
+#### Consulting
+* Use GovScan to retrieve data from in-house databases and improve market research for clients.  
+#### Legal
+* Use GovScan to improve document review and build a stronger case in court.
+#### Military
+* Use GovScan to draw strategic insight from open source adversary documents. 
 
 ## GovScan in action: <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
 
