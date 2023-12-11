@@ -15,7 +15,7 @@ With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's d
 3. There is a mismatch in the existing mental models of two user groups - ones who create reports and ones who read them.
 4. At times the reports are generated at different points in time which makes recency of the report relative and hard to compare.
 5. Federal government is now focusing on data rather than reports.
-6. GovScan should do the laborious heavy lifting of finding and parsing data while leaving the intellectual high-risk analysis in the hands of a human.
+6. The laborious heavy lifting of using AI to find and parse data will leave the intellectual high-risk analysis in the hands of a human.
 7. Users rely on their internal network of stakeholders to ‘figure out’ what’s in reports and ask clarifying questions.
 8. There is a steep learning curve and significant friction in the comprehension of these reports.
 
