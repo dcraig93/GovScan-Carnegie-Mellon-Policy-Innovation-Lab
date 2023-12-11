@@ -95,3 +95,33 @@ Is there anything else you'd like to add or share about your experiences with go
 
 “Thanks for taking the time to speak with us today.  We really appreciate it.  Do you have any other questions for me or for any members of our team? I’d also like to ask my other team members if they have any questions they’d like to ask. Our next steps will be analyzing our notes on your feedback and thinking about how this will inform our overall approach.  We’d be happy to keep you informed of our project’s progress as we go if you would be interested.  I’m also curious if there is anyone else you would recommend we talk to. If you have any other questions, thoughts or comments later you can always reach out to me.  Thanks again for your time!”
 
+## Refined How-Might-Wes
+How might we reduce the cognitive load on policy analysts while analyzing the reports?
+How might we aid policy analysts, advisors, researchers make decisions quickly?How might we help policy makers make better and well informed decisions?
+How might we increase transparency and connectivity between the network of stakeholders within program structures?
+How might we reduce the time it takes to find critical information from government reports?
+How might we increase the working efficiency of federal stakeholders in evaluating programs’ performances?
+How might we eliminate the need for PDF reports?
+How might we allow government report users to easily compare variations in specific parts of reports across many States?
+How might we rate the quality of different sections within a government report? 
+How might we extract specific data from government reports?
+How might we create a tool that is simple and intuitive for anyone to use? 
+How might we enable quick comparison across different reports to review good and bad reports effectively on state and federal level?
+How might we improve the feedback system between states and the federal government?
+How might we reduce workload for black and white information so that users can focus on gray areas? 
+How might we add a table of contents to reports that don’t already have one?
+How might we reduce administrative workload for government report users?
+How might we communicate the primary issues we discovered through user research? 
+How might we provide safety / potential harms / risks of any solution we develop?
+ 
+How might we help federal policy analysts quickly find information within state CCDF plans? (Focusing on CCDF state plans for now, but will expand to other types of reports after prototyping.)
+
+## Key Insights
+*(From a Job To Be Done context) Users ‘hire’ program reports to make decisions.
+*Users tend to look for specific data points while reading reports.
+*There is a mismatch in the existing mental models of two user groups - ones who create reports and ones who consume them.
+*At times the reports are generated at different points in time which makes recency of the report relative and hard to compare.
+*Federal government is now focusing on data rather than reports.
+*Users don’t always know what they’re looking for in a report.
+*There is a wall of opacity between report generators and consumers which the consumers try to overcome by leveraging personal networks.
+
