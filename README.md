@@ -9,9 +9,11 @@ GovScan is a vectorbase powered large language model (LLM) that simultaneously s
 ## Background
 With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's decision to release the proprietary format as an open standard in 2008, the PDF has become widely adopted as the preferred method for securing digital documents. Private businesses and public agencies alike face the burden of managing extensive libraries of PDFs in a way that allows for easy retrieval when information is needed. The problem is, a single human seeking information from a PDF can only one review one document at a time. This limitation has resulted in costly hours spent reviewing documents one-by-one to find the desired information. 
 
-Consider a federal policy analyst working for the U.S. Department of Health & Human Services, the Administration for Children and Families who is repsonsible for reviewing state Child Care Development Fund (CCDF) plans to ensure compliance with federal law. It will take the anyalyst weeks if not months to individually review all 50 state plans. Encumbered by the time-intensive task, the analyst is prone to error and potentially lacks the appropriate oversight necessary to enforce compliance. What if the analyst could search all 50 state plans simultaneously with the click of a button? GovScan is designed to perform this very function. With the power to search multiple documents at once and the ability to scan like a human, GovScan is positioned to reduce administrative costs and increase oranizational output for businesses, publicy entities, and academic institutions.
+## User Research Affinity Mapping: 
+Our team interviewed numerous stakeholders to better understand a AI document scanning tool might serve them best. A collaborative affinity map of user inputs organized by common trends can be found here: https://miro.com/app/board/uXjVNNbCIVc=/
 
-## User Research Summary
+## User Research Takeaways
+After subsantial user research, here are the key takeaways that influenced our development of GovScan:
 * Users look to large reports to help inform decisions making.
 * Users tend to look for specific data points while reading reports.
 * There is a mismatch in the existing mental models of two user groups - ones who create reports and ones who read them.
@@ -20,9 +22,6 @@ Consider a federal policy analyst working for the U.S. Department of Health & Hu
 * The laborious heavy lifting of using AI to find and parse data will leave the intellectual high-risk analysis in the hands of a human.
 * Users rely on their internal network of stakeholders to ‘figure out’ what’s in reports and ask clarifying questions.
 * There is a steep learning curve and significant friction in the comprehension of these reports.
-
-## Affinity Mapping: 
-https://miro.com/app/board/uXjVNNbCIVc=/
 
 ## Suggested Use Cases 
 #### Federal Goverment
@@ -61,3 +60,5 @@ https://miro.com/app/board/uXjVNNbCIVc=/
 * Dependence on third party foundational models i.e. OpenAI, Meta, Anthropic
 * Technological disruption
 
+## Summary
+Consider a federal policy analyst working for the U.S. Department of Health & Human Services, the Administration for Children and Families who is repsonsible for reviewing state Child Care Development Fund (CCDF) plans to ensure compliance with federal law. It will take the anyalyst weeks if not months to individually review all 50 state plans. Encumbered by the time-intensive task, the analyst is prone to error and potentially lacks the appropriate oversight necessary to enforce compliance. What if the analyst could search all 50 state plans simultaneously with the click of a button? GovScan is designed to perform this very function. With the power to search multiple documents at once and the ability to scan like a human, GovScan is positioned to reduce administrative costs and increase oranizational output for businesses, publicy entities, and academic institutions.
