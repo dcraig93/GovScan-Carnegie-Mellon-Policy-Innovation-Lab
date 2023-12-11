@@ -2,14 +2,14 @@
 
 ## Overview
 GovScan is a vectorbase powered large language model (LLM) that simultaneously scans multiple large PDF documents and leverages generative artificial intellegence (AI) to return specific data requests. Unlike Chat GPT, GovScan maintains source disaggregation so that each return can be linked directly to the orignial document text in which it was found. This provides users with the abilty to search and compare large PDF documents with the click of a button almost like using the CTRL+F shortcut, but for an entire document library at once using natural language prompts like, "Hey GovScan, how does Pennsylvania determine Childcare Development Funding (CCDF) eligibility compared to Ohio?" GovScan has the potential to save users hours of time and millions of dollars in document research, all the while increasing the usability of large PDF documents.
+**GovScan does not replace the human verification requirement**
 
 ## GovScan In Action: <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
-**GovScan does not replace the human verification requirement**
 
 ## Background
 With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's decision to release the proprietary format as an open standard in 2008, the PDF has become widely adopted as the preferred method for securing digital documents. Private businesses and public agencies alike face the burden of managing extensive libraries of PDFs in a way that allows for easy retrieval when information is needed. The problem is, a single human seeking information from a PDF can only one review one document at a time. This limitation has resulted in costly hours spent reviewing documents one-by-one to find the desired information. 
 
-## User Research Affinity Mapping: 
+## User Research Affinity Mapp
 Our team interviewed numerous stakeholders to better understand how an AI document scanning tool might serve them best. A collaborative affinity map of user inputs organized by common trends can be found here: https://miro.com/app/board/uXjVNNbCIVc=/
 
 ## User Research Takeaways
