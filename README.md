@@ -10,14 +10,14 @@ GovScan is a vectorbase powered large language model (LLM) that simultaneously s
 With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's decision to release the proprietary format as an open standard in 2008, the PDF has become widely adopted as the preferred method for securing digital documents. Private businesses and public agencies alike face the burden of managing extensive libraries of PDFs in a way that allows for easy retrieval when information is needed. The problem is, a single human seeking information from a PDF can only one review one document at a time. This limitation has resulted in costly hours spent reviewing documents one-by-one to find the desired information. Consider a federal policy analyst working for the U.S. Department of Health & Human Services, the Administration for Children and Families who is repsonsible for reviewing state Child Care Development Fund (CCDF) plans to ensure compliance with federal law. It will take the anyalyst weeks if not months to individually review all 50 state plans. Encumbered by the time-intensive task, the analyst is prone to error and potentially lacks the appropriate oversight necessary to enforce compliance. What if the analyst could search all 50 state plans simultaneously with the click of a button? GovScan is designed to perform this very function. With the power to search multiple documents at once and the ability to scan like a human, GovScan is positioned to reduce administrative costs and increase oranizational output for businesses, publicy entities, and academic institutions.
 
 ## User Research
-1. Users look to large reports to help inform decisions making.
-2. Users tend to look for specific data points while reading reports.
-3. There is a mismatch in the existing mental models of two user groups - ones who create reports and ones who read them.
-4. At times the reports are generated at different points in time which makes recency of the report relative and hard to compare.
-5. Federal government is now focusing on data rather than reports.
-6. The laborious heavy lifting of using AI to find and parse data will leave the intellectual high-risk analysis in the hands of a human.
-7. Users rely on their internal network of stakeholders to ‘figure out’ what’s in reports and ask clarifying questions.
-8. There is a steep learning curve and significant friction in the comprehension of these reports.
+* Users look to large reports to help inform decisions making.
+* Users tend to look for specific data points while reading reports.
+* There is a mismatch in the existing mental models of two user groups - ones who create reports and ones who read them.
+* At times the reports are generated at different points in time which makes recency of the report relative and hard to compare.
+* Federal government is now focusing on data rather than reports.
+* The laborious heavy lifting of using AI to find and parse data will leave the intellectual high-risk analysis in the hands of a human.
+* Users rely on their internal network of stakeholders to ‘figure out’ what’s in reports and ask clarifying questions.
+* There is a steep learning curve and significant friction in the comprehension of these reports.
 
 ## Suggested Use Cases 
 #### Federal Goverment
