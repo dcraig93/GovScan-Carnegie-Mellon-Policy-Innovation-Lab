@@ -39,9 +39,9 @@ With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's d
 1. You can find all GovScan files here: https://github.com/dcraig93/GovScan-Carnegie-Mellon-Policy-Innovation-Lab/tree/main
 2. Review the "User Research" folder to explore user personas and other research documents that shaped GovScan's development.
 3. Review the "App" folder to access the open source query engine and data pipeline code annotated with programming notes and directions.
-4. 
+4. Review the "LICENSE" file to ensure all future development efforts comply.
 
-## Roadmap to Further Development
+## Recommended Roadmap to Further Development
 #### Product Refinement
 * The MVP will be converted into full fledge product and various new features will be included to parse and summarize information in PDF reports.
 #### User Testing
