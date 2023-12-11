@@ -37,6 +37,7 @@ With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's d
 
 ## Sponsor's Guide to Adopting GovScan
 1. Youre one stop shop for all research and prototype code: https://github.com/dcraig93/GovScan-Carnegie-Mellon-Policy-Innovation-Lab/tree/main
+2. 
 
 ## Roadmap to Further Development
 #### Product Refinement
