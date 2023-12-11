@@ -18,14 +18,10 @@ GovScan is a vectorbase powered large language model (LLM) that simultaneously s
 #### Military
 * Use GovScan to draw strategic insight from open source adversary documents. 
 
-
-## GovScan in action: <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
-
+# GovScan in action: <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
 
 ## Background
-With the advent of the Portable Document Format (PDF) in 1993became the golden standard for document sharing in 1993 and PDF utilization has grown State plans are comprehensive documents that state governments submit to federal agencies to outline how they intend to administer various federal programs or initiatives within their jurisdictions. For example, states must submit state plans to HHS (the Administration for Children and Families) to explain how they plan to implement their childcare subsidy programs under ACF's regulations. 
-
-They help policymakers evaluate the state’s alignment with federal goals, promote accountability and transparency, and supply data for informed decision-making. Citizens could also use state plans for accessing program information, understanding resource allocation, and evaluating program outcomes thus facilitating engagement and transparency in government services and policies.
+With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's decision to release the proprietary format as an open standard in 2008, the PDF has become widely adopted as the preferrecd method for securing digital documents. Now private businesses and public agencies alike face the burden of managing extensive libraries of PDFs in a way that allows for easy retrieval when information is needed. The problem is, a human seeking information from a PDF can only one review one document at a time. This limitation has resulted in costly hours spent reviewing documents one-by-one to find the desired information. Consider a federal policy analyst working for the U.S. Department of Health & Human Services, the Administration for Children and Families who is repsonsible for reviewing state Child Care Development Fund (CCDF) plans to ensure compliance with federal regulations. 
 
 #### Header 4
 ###### Header 6
