@@ -39,6 +39,17 @@ With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's d
 1. 
 
 ## Roadmap to Further Development
-
+#### Product Refinement
+* The MVP will be converted into full fledge product and various new features will be included to parse and summarize information in PDF reports.
+#### User Testing
+* The product will be tested with policy analysts and other stakeholders to understand their thoughts about the product.
+#### Scaling
+* Expanding the backend code to accommodate other program reports.
 
 ## Potential Challenges
+* Exhaustive search capability
+* Fabrications (“hallucinations”)
+* Government adoption of Large Language Models
+* Dependence on third party foundational models i.e. OpenAI, Meta, Anthropic
+* Technological disruption
+
