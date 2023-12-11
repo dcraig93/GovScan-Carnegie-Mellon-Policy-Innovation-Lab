@@ -36,7 +36,7 @@ With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's d
 * Use GovScan to draw strategic insight from open source adversary documents. 
 
 ## Sponsor's Guide to Adopting GovScan
-1. 
+1. Youre one stop shop for all research and prototype code: 
 
 ## Roadmap to Further Development
 #### Product Refinement
