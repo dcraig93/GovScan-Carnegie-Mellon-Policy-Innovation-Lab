@@ -10,7 +10,7 @@ GovScan is a vectorbase powered large language model (LLM) that simultaneously s
 With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's decision to release the proprietary format as an open standard in 2008, the PDF has become widely adopted as the preferred method for securing digital documents. Private businesses and public agencies alike face the burden of managing extensive libraries of PDFs in a way that allows for easy retrieval when information is needed. The problem is, a single human seeking information from a PDF can only one review one document at a time. This limitation has resulted in costly hours spent reviewing documents one-by-one to find the desired information. 
 
 ## User Research Affinity Mapping: 
-Our team interviewed numerous stakeholders to better understand a AI document scanning tool might serve them best. A collaborative affinity map of user inputs organized by common trends can be found here: https://miro.com/app/board/uXjVNNbCIVc=/
+Our team interviewed numerous stakeholders to better understand how an AI document scanning tool might serve them best. A collaborative affinity map of user inputs organized by common trends can be found here: https://miro.com/app/board/uXjVNNbCIVc=/
 
 ## User Research Takeaways
 After subsantial user research, here are the key takeaways that influenced our development of GovScan:
