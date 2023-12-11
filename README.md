@@ -21,7 +21,8 @@ Consider a federal policy analyst working for the U.S. Department of Health & Hu
 * Users rely on their internal network of stakeholders to ‘figure out’ what’s in reports and ask clarifying questions.
 * There is a steep learning curve and significant friction in the comprehension of these reports.
 
-## Affinity Mapping: https://miro.com/app/board/uXjVNNbCIVc=/
+## Affinity Mapping: 
+https://miro.com/app/board/uXjVNNbCIVc=/
 
 ## Suggested Use Cases 
 #### Federal Goverment
