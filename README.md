@@ -45,11 +45,11 @@ Consider a federal policy analyst working for the U.S. Department of Health & Hu
 
 ## Recommended Roadmap to Further Development
 #### Product Refinement
-* The MVP will be converted into full fledge product and various new features will be included to parse and summarize information in PDF reports.
+* Convert the GovScan prototype into full fledge product and include new features to parse and summarize information in PDF reports.
 #### User Testing
-* The product will be tested with policy analysts and other stakeholders to understand their thoughts about the product.
+* Test prototype with policy analysts and other stakeholders to understand their thoughts about the product.
 #### Scaling
-* Expanding the backend code to accommodate other program reports.
+* Expand the backend code to accommodate other program reports.
 
 ## Potential Challenges
 * Exhaustive search capability
