@@ -3,7 +3,7 @@
 ## Overview
 GovScan is a vectorbase powered large language model (LLM) that simultaneously scans multiple large PDF documents and leverages generative artificial intellegence (AI) to return specific data requests. Unlike Chat GPT, GovScan maintains source disaggregation so that each return can be linked directly to the orignial document text in which it was found. This provides users with the abilty to search and compare large PDF documents with the click of a button almost like using the CTRL+F shortcut, but for an entire document library at once using natural language prompts like, "Hey GovScan, how does Pennsylvania determine Childcare Development Funding (CCDF) eligibility compared to Ohio?" GovScan has the potential to save users hours of time and millions of dollars in document research, all the while increasing the usability of large PDF documents.
 
-## GovScan Demonstration: <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
+## GovScan In Action: <a href="https://youtu.be/xSBFVVNNgTY" target="_blank">Prototype Demonstration</a>
 **GovScan does not replace the human verification requirement**
 
 ## Background
@@ -11,7 +11,7 @@ With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's d
 
 Consider a federal policy analyst working for the U.S. Department of Health & Human Services, the Administration for Children and Families who is repsonsible for reviewing state Child Care Development Fund (CCDF) plans to ensure compliance with federal law. It will take the anyalyst weeks if not months to individually review all 50 state plans. Encumbered by the time-intensive task, the analyst is prone to error and potentially lacks the appropriate oversight necessary to enforce compliance. What if the analyst could search all 50 state plans simultaneously with the click of a button? GovScan is designed to perform this very function. With the power to search multiple documents at once and the ability to scan like a human, GovScan is positioned to reduce administrative costs and increase oranizational output for businesses, publicy entities, and academic institutions.
 
-## User Research
+## User Research Summary
 * Users look to large reports to help inform decisions making.
 * Users tend to look for specific data points while reading reports.
 * There is a mismatch in the existing mental models of two user groups - ones who create reports and ones who read them.
@@ -20,6 +20,8 @@ Consider a federal policy analyst working for the U.S. Department of Health & Hu
 * The laborious heavy lifting of using AI to find and parse data will leave the intellectual high-risk analysis in the hands of a human.
 * Users rely on their internal network of stakeholders to ‘figure out’ what’s in reports and ask clarifying questions.
 * There is a steep learning curve and significant friction in the comprehension of these reports.
+
+## Affinity Mapping: https://miro.com/app/board/uXjVNNbCIVc=/
 
 ## Suggested Use Cases 
 #### Federal Goverment
