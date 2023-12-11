@@ -14,9 +14,7 @@ With the advent of the Portable Document Format (PDF) in 1993 and then Adobe's d
 5. Federal government is now focusing on data rather than reports.
 
 ## Big Takeaways
-**GovScan does not replace the human verification requirement
-
-
+**GovScan does not replace the human verification requirement**
 
 ## Potential Use Cases 
 #### Federal Goverment
