@@ -1,7 +1,7 @@
 # Welcome to GovScan
 
 ## Important installation / version requirements
-Python v3.9 is needed for the installation of the detectron package. Detectron is also native to Linux operating systems so we recommend if Windows users have a Windows Subsystem for Linux to use Google Colab
+Python v3.9 is needed for the installation of the detectron package. Additionally, detectron is native to Linux, therefore if Windows users do not have a Windows Subsystem for Linux we recommend using Google Colab.
 
 ## Inital Problem Area
 How can we take state plans for programs that are federally funded and state run (for example: Medicaid and child care subsidies) and make them digestible, easily searchable and actually useful to understand how 50 different states are implementing programs?
